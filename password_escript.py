@@ -39,7 +39,7 @@ def creat_password():
     symbols=["!","@","$","%","^","&"]
     lower=["a","b","c","d","e","f","g","h","i","j","k","l","m","n","o","p","q","r","s","t","u","v","w","x","y","z"]
     upper=["A","B","C","D","E","F","G","H","I","J","K","L","M","N","O","P","Q","R","S","T","U","V","W","X","Y","Z"]
-    mikoskwdikou=int(input("Πόσα στοιχεία θέλεις να είναι ο κωδικός;(4,8,12)"))
+    mikoskwdikou=int(input("How many items do you want the code to be?;(4,8,12)"))
     password=[]
     for i in range(int(mikoskwdikou/4)):
         password.append(choice(numbers))
