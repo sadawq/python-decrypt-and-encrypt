@@ -51,4 +51,4 @@ Give a ⭐️ if this project helped you!
 This project is [MIT](https://github.com/sadawq/python-decrypt-and-encrypt/blob/add-license-1/LICENSE) licensed.
 
 ***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
+_This README was created with ❤️ by Axilleas David(https://github.com/sadawq)
